@@ -1,28 +1,30 @@
-Diary
-
-- Eggs
-- Milk
-- Curd
-- Paneer
+dairy & Bakery
+- గుడ్లు
+- పాలు
+- పెరుగు
+- పన్నీరు
 - Cheese
 - White Bread
 - Brown Bread
 - Sandwich Bread
 - Pav Bread
 
-Daals
+పప్పులు
 
-- Chutney Daal
-- Groundnuts
-- Chana Daal
-- Toor Daal
-- Moong Daal
-- Masoor Daal
-- Urad Daals
+- పుట్నాల పొప్పు
+- వేరు సెనగ పొప్పు
+- శనగ పప్పు
+- కంది పప్పు
+- పెసర పప్పు
+- పెసలు
+- మసూర్ పప్పు
+- మినపొప్పు
+- మినుములు
 - Chickpeas Black
 - Chickpeas Kabuli
-- Rajma
-- Horsegram
+- రాజ్మ
+- వులవలు
+- అల్ల సందలు
 
 Tea & Coffee
 
@@ -30,27 +32,41 @@ Tea & Coffee
 - Coffee
 - Complan
 
-Spices
-
+మసాల
+- ధనియాలు
 - ఆవాలు
 - జేలకర్ర
+- షా జీర
+- దాల్చిన చెక్క
+- లవంగాలు
+- యాలకులు
+- జాపత్రి
+- జాజి కాయ
+- మరాఠి మోగ్గ
+- అనాస పువ్వు
+- పత్తర్ కా ఫూల్
+- ఎండు గులాబి petals
+- వట్టివేళ్ళు
 - సొంప్
-- మెంతి
+- మెంతులు
 - మిర్యాలు
 - వాము
 - సొంటి
 - నూవ్వులు
-
+- జీడి పప్పు
+- ఆల్మండ్
+- కిస్మిస్
 
 Spice Powders
 
+- ఆంచూరు
+- ఎండు కొబ్బరి పొడి
 - Jeera Powder
 - Dhaniya Powder
 - Sambar Powder
 - Rasam Powder
 - Garam Masala
 - Biryani Masala
-- Amchur
 - కారం
 - కందిపొడి
 - నూకారం
@@ -58,51 +74,65 @@ Spice Powders
 పిండి
 - గొధుమ పిండి
 - రాగి పిండి
+- జొన్న పిండి
+- Bajra 
 - బియ్యం పిండి
 - మైదా పిండి
+- శెనగ పిండి
+- మొక్కజొన్న పిండి
 - ఉప్మ రవ్వ (సూజి)
 - ఇడ్లి రవ్వ
+- బియ్యం రవ్వ
+- గొధుమ రవ్వ
 
+బియ్యం
 
-రైస్
 - సొనా మసూరి
-- దొస రైస్
 - చిట్టి ముత్యాలు (పులావ్)
-- బాసమతి
+- బాసమతి (బిర్యాని)
+- దొస రైస్
+- దంపుడు బియ్యం (Brown Rice)
+- 
 
 Others
 
-- Salt
-- sugar
-- Pasupu Kommulu
-- Dry red chillies (Guntur, Badige, Kashmiri)
-- Tamrind
-- Soya
-- Oil
-- Jaggery
-- Papad/vadiyalu
-- Avalakki
-- Semiya
-- Saabudhana
-- Bhel
+- ఉప్పు
+- పంచదార
+- పసుపు కొమ్ములు
+- ఎండు మిర్చి (Guntur, Badige, Kashmiri)
+- చింత పండు
+- బెల్లం
+- అప్పడం/వడియాలు
+- అటుకులు
+- సెమ్య
+- సగ్గు బియ్యం
+- బురుగులు
+- Soya/మీల్ మెకర్
 - Ketchup
 - Jam
 - Mayonese
 - Honey
 - Coconut Dessicated
-- 
+- Pasta Sauce
 
 Oils
+
 - Ghee
-- 
+- Sunflower
+- Groundnut
+- Sasame
+- Castor
+
+
 
 క్లినింగ్ 
 
-- Floor cleaning
+- Floor cleaning (Neemoli, Mops)
 - Clothes Cleaning (Soaps, Washing machine powder,softner)
-- Toilet Cleaning
+- Toilet Cleaning (Harpic)
 - Garbage Bags
 - Body Higene (Soaps, Toothpaste, Toothbrush)
+- Utensil cleaning (VIM baar, scratch pad)
 - కుంకుడు కాయలు
-- 
+
 
