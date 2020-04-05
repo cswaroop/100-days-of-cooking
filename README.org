@@ -1,34 +1,40 @@
 Indian Cooking is broadly  can be classified by
 - Bengali, Punjabi, UP, Bihar, Andhra, Tamil, Telangana, Keral
-- Hindu, Muslim, Christian, Parsi, Jain
-- క్యాస్ట్
+- By Religion - Hindu, Muslim, Christian, Parsi, Jain
+- By క్యాస్ట్
 - Old time, Modern
 
+
+| material       | Dish   | Name              | Url                                                                                                                    |   |   |   |
+|----------------+--------+-------------------+------------------------------------------------------------------------------------------------------------------------+---+---+---|
+| maggi          | Tiffin | Maggi             | https://www.youtube.com/watch?v=Djt-xUC8YYw                                                                            |   |   |   |
+| Dosa Pindi     | Snack  | దొస పిండి బజజిలు      | https://www.youtube.com/watch?v=HFK471yHC14&list=PL7WItDbw6HBw1_uPVXJxrpPjU6zlp_xND&index=1                            |   |   |   |
+| Dosa Pindi     | Snack  | గుంటపునుగులు      | అధరహో అనిపించే ఉల్లికారం గుంటపునుగులు                                             https://www.youtube.com/watch?v=0Jb6AG_bNzw |   |   |   |
+| Idly Pindi     | Tiffin | ఉతప్పం             | https://www.youtube.com/watch?v=9MmjOtRhKHE&list=PL7WItDbw6HBw1_uPVXJxrpPjU6zlp_xND&index=2                            |   |   |   |
+| బియ్యంపిండి        |        |                   | https://www.youtube.com/watch?v=bpntbHO7hDU                                                                            |   |   |   |
+| Idly pindi     | Tiffin | పొట్టిక్కలు           | https://www.youtube.com/watch?v=BD3BQhbc9bw                                                                            |   |   |   |
+|                |        | దిబ్బ రొట్టి           | https://www.youtube.com/watch?v=ozwBN8vJyOE                                                                            |   |   |   |
+|                |        | రవ్వ దోశ            |                                                                                                                        |   |   |   |
+|                |        | పూరి               |                                                                                                                        |   |   |   |
+| Milk Bread     |        | French Toash      | https://www.youtube.com/watch?v=xmBdJLqmd7c                                                                            |   |   |   |
+| Egg Plant      | Snack  | బెగన్ బాజ            | https://www.youtube.com/watch?v=V9IgJesRogo                                                                            |   |   |   |
+|                |        | అల్లం మురబ్బా        | https://www.youtube.com/watch?v=SGsdBh6MF1s                                                                            |   |   |   |
+| సేమ్యా            | snack  | సేమ్యా బోండా           | https://www.youtube.com/watch?v=QJs5YeiCBB0                                                                            |   |   |   |
+| Maida          | Snack  | ఉల్లి సమోసా           | https://www.youtube.com/watch?v=aqBjlOqC6Ko                                                                            |   |   |   |
+| Soya Chunks    | Snack  | Soya Chunk Chilli | https://www.youtube.com/watch?v=UI5AlZgKZRQ                                                                            |   |   |   |
+| Cabbage+Carrot | Snack  | వెజ్ మంచురియా         | https://www.youtube.com/watch?v=iuc0qT8kSJo                                                                            |   |   |   |
+| మామిడికాయ          | Tiffin | మామిడికాయ పులిహోర       | https://www.youtube.com/watch?v=cl2zfWHECCQ                                                                            |   |   |   |
+| మామిడికాయ          | Sambar | మామిడికాయ పప్పుచారు     | https://www.youtube.com/watch?v=5EZAFCgiRuk                                                                            |   |   |   |
+| పెసర పప్పు       |        | పెసర పప్పుచారు       |                                                                                                                        |   |   |   |
+| పాలకూర          | Curry  | పాలకూర పప్పు        | https://www.youtube.com/watch?v=KhPZXZC3Czw                                                                            |   |   |   |
+| Menthi leaves  | Pappu  |                   |                                                                                                                        |   |   |   |
+|                |        | ఉల్లిపాయ సమోసా క్రిస్పీ    | https://www.youtube.com/watch?v=1Emb6KlcYEE                                                                            |   |   |   |
+| Palak          | Snack  | Paala Pakodi      | https://www.youtube.com/watch?v=Ngtq3dz0XSQ                                                                            |   |   |   |
+| Mutton         | Curry  | మటన్ కుర్మా          | https://www.youtube.com/watch?v=A9-UiU5bYtc                                                                            |   |   |   |
+| Cabbage        | Curry  | Cabbage Fry       | https://www.youtube.com/watch?v=FiPGBZ5KUcY                                                                            |   |   |   |
+   
 * టిఫిన్న్ల
-** మ్యాగి
-   https://www.youtube.com/watch?v=Djt-xUC8YYw
-** దొస పిన్ది 
-*** తొ బజజిలు
-    - https://www.youtube.com/watch?v=HFK471yHC14&list=PL7WItDbw6HBw1_uPVXJxrpPjU6zlp_xND&index=1
-*** గుంటపునుగులు
-    అధరహో అనిపించే ఉల్లికారం గుంటపునుగులు  | https://www.youtube.com/watch?v=0Jb6AG_bNzw
 
-** ఇద్లిపిండి
-*** తొ ఉతప్పం
-    - https://www.youtube.com/watch?v=9MmjOtRhKHE&list=PL7WItDbw6HBw1_uPVXJxrpPjU6zlp_xND&index=2
-*** పొట్టిక్కలు
-    https://www.youtube.com/watch?v=BD3BQhbc9bw
-*** మినప రొట్టె లేదా దిబ్బ రొట్టి 
-    https://www.youtube.com/watch?v=ozwBN8vJyOE
-
-
-** బియ్యంపిండితో టిఫిన్
-   https://www.youtube.com/watch?v=bpntbHO7hDU
-** రవ్వ దోశ
-** పూరి
-** BREAD MILK|
-   FRఎన్చ్ టోస్తె
-   https://www.youtube.com/watch?v=xmBdJLqmd7c
 ** Sandwich BREAD
    
    https://www.youtube.com/watch?v=1qeyc8DnG-k
@@ -156,6 +162,9 @@ Indian Cooking is broadly  can be classified by
     https://www.youtube.com/watch?v=UnGCgZENSps
 *** పెళ్ళిళ్ళ స్పెషల్ దొండకాయ 65 
     https://www.youtube.com/watch?v=5GQgF9PPgbM
+*** బెండకాయ పచ్చడి
+    https://www.youtube.com/watch?v=G242O8hQJrA
+
 * బెండకాయ 
 *** బెండకాయ పులుసు
     https://www.youtube.com/watch?v=EpNX-geA0Zg
@@ -168,7 +177,8 @@ Indian Cooking is broadly  can be classified by
     https://www.youtube.com/watch?v=LW_ptWmNbA8
 
 * బీరకాయ
-   బీరకాయ పచ్చి సెనగపప్పు | https://www.youtube.com/watch?v=kiyegIuWI_Y
+*** బీరకాయ పచ్చి సెనగపప్పు | https://www.youtube.com/watch?v=kiyegIuWI_Y
+*** బీరకాయ పచ్చడి | https://www.youtube.com/watch?v=Y3vPoZWwqjc
 * వంకాయ 
 *** వంకాయ బజ్జి కూర
     https://www.youtube.com/watch?v=zdBf_6Lsm48&list=RDCMUCPVSOHyaAKjEQpuGP28DO6g&index=9
@@ -216,8 +226,7 @@ Indian Cooking is broadly  can be classified by
 *** వెజ్ కుర్మ
     https://www.youtube.com/watch?v=9MZpjmqVXKw
 * పుట్ట గొడుగులు
-*** నాటు పుట్ట గొడుగులు కూర Village Style Mushroom Curry
-    https://www.youtube.com/watch?v=i2K0CMtdRE0
+*** నాటు పుట్ట గొడుగులు కూర  https://www.youtube.com/watch?v=i2K0CMtdRE0
 * అరటి కాయ
 *** అరటి కాయ ఫ్రై
     https://www.youtube.com/watch?v=OuNR9N0s1ts
@@ -271,6 +280,8 @@ Indian Cooking is broadly  can be classified by
 * దిల్ 
    Dil dal curry | https://www.youtube.com/watch?v=ZZplAwAN1OY
 
+* చింతచిగురు
+** చింతచిగురు పప్పు | https://www.youtube.com/watch?v=O_qzb7FEEzI
 * చారులు
 ** చింతపండు చారు
    https://www.youtube.com/watch?v=IsBi1lR6548
