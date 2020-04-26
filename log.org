@@ -1,0 +1,50 @@
+* <2020-04-19 Sun> : Day 1
+** Tiffin
+- Brown Bread
+** Lunch
+- Palak Paneer
+** Evening Snack
+** Dinner
+* <2020-04-20 Mon>: Day 2
+** Tiffin
+- Poddu   
+** Lunch
+- Kuchidi
+  South
+  https://www.youtube.com/watch?v=kcno7zX5Ta4
+  North
+  https://www.youtube.com/watch?v=ueKEyizRnu8
+** Evening Snack
+- Butte ka Khees
+  https://www.youtube.com/watch?v=_xUvF49a9CI
+** Dinner
+* <2020-04-21 Tue> : Day 3
+** Tiffin
+- Pesarattu
+** Lunch
+- Tondi fry & Rasam
+** Evening Snack
+- Idly punukulu
+** Dinner
+* <2020-04-22 Wed>: Day 4
+** Tiffinx
+** Lunch
+** Evening Snack
+** Dinner
+* <2020-04-23 Thu>: Day 5
+** Tiffin
+  nil
+** Lunch
+   Rajma Chapati
+** Evening Snack
+nil
+** Dinner
+tondi fry 
+Lemon Rice
+* 2020
+** 2020-04 April
+*** 2020-04-26 Sunday
+**** <2020-04-26 Sun>
+   Entered on [2020-04-26 Sun 18:42]
+  
+     [[file:~/.spacemacs::("c" "Job" entry (file+datetree "d:/MyProjects/100-days-of-cooking/log.org")]]

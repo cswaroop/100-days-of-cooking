@@ -1,38 +1,58 @@
-dairy & Bakery
+* dairy & Bakery
 - గుడ్లు
 - పాలు
 - పెరుగు
 - పన్నీరు
-- Cheese
+- Cheese for sandwich
+- Butter for toasting bread 
 - White Bread
 - Brown Bread
 - Sandwich Bread
 - Pav Bread
 
-పప్పులు
-
-- పుట్నాల పొప్పు
-- వేరు సెనగ పొప్పు
+పప్పులు :pappu:
 - శనగ పప్పు
 - కంది పప్పు
 - పెసర పప్పు
+- పుట్నాల పొప్పు
+- వేరు సెనగ పొప్పు
 - పెసలు
+- మినుములు
 - మసూర్ పప్పు
 - మినపొప్పు
-- మినుములు
 - Chickpeas Black
 - Chickpeas Kabuli
 - రాజ్మ
 - వులవలు
 - అల్ల సందలు
+- Masoor daal
 
-Tea & Coffee
+* Tea & Coffee
 
 - Tea
 - Coffee
 - Complan
 
-మసాల
+* Spice Powders
+- ఆంచూరు
+- ఎండు కొబ్బరి పొడి
+- kasuri methi
+- Jeera Powder
+- Dhaniya Powder
+- Sambar Powder
+- Rasam Powder
+- Garam Masala
+- Biryani Masala
+- Chilly Powder
+
+* Oils
+- Ghee
+- Sunflower
+- Groundnut
+- Sasame
+- Castor
+- Vegetable Oil
+* మసాల
 - ధనియాలు
 - ఆవాలు
 - జేలకర్ర
@@ -52,56 +72,47 @@ Tea & Coffee
 - మెంతులు
 - మిర్యాలు
 - వాము
+- flax seeds
 - సొంటి
 - నూవ్వులు
 - జీడి పప్పు
 - ఆల్మండ్
 - కిస్మిస్
-
-Spice Powders
-
-- ఆంచూరు
-- ఎండు కొబ్బరి పొడి
-- Jeera Powder
-- Dhaniya Powder
-- Sambar Powder
-- Rasam Powder
-- Garam Masala
-- Biryani Masala
-- కారం
-- కందిపొడి
-- నూకారం
-
-పిండి
+* పిండి
 - గొధుమ పిండి
 - రాగి పిండి
-- జొన్న పిండి
-- Bajra 
+- జొన్న పిండి (jowar)
+- సజ్జ పిండి (bajra)
 - బియ్యం పిండి
 - మైదా పిండి
 - శెనగ పిండి
 - మొక్కజొన్న పిండి
+- Corn Starch
 - ఉప్మ రవ్వ (సూజి)
 - ఇడ్లి రవ్వ
 - బియ్యం రవ్వ
 - గొధుమ రవ్వ
 
-బియ్యం
-
+* బియ్యం
 - సొనా మసూరి
 - చిట్టి ముత్యాలు (పులావ్)
 - బాసమతి (బిర్యాని)
 - దొస రైస్
 - దంపుడు బియ్యం (Brown Rice)
-- 
-
-Others
-
+* క్లినింగ్ 
+- Floor cleaning (Neemoli, Mops)
+- Clothes Cleaning (Soaps, Washing machine powder,softner)
+- Toilet Cleaning (Harpic)
+- Garbage Bags
+- Body Higene (Soaps, Toothpaste, Toothbrush)
+- Utensil cleaning (VIM baar, scratch pad)
+- కుంకుడు కాయలు
+* Others
 - ఉప్పు
 - పంచదార
 - పసుపు కొమ్ములు
-- ఎండు మిర్చి (Guntur, Badige, Kashmiri)
-- చింత పండు
+- ఎండుమిర్చి (Guntur, Badige, Kashmiri)
+- చింతపండు
 - బెల్లం
 - అప్పడం/వడియాలు
 - అటుకులు
@@ -115,25 +126,8 @@ Others
 - Honey
 - Coconut Dessicated
 - Pasta Sauce
-
-Oils
-
-- Ghee
-- Sunflower
-- Groundnut
-- Sasame
-- Castor
-
-
-
-క్లినింగ్ 
-
-- Floor cleaning (Neemoli, Mops)
-- Clothes Cleaning (Soaps, Washing machine powder,softner)
-- Toilet Cleaning (Harpic)
-- Garbage Bags
-- Body Higene (Soaps, Toothpaste, Toothbrush)
-- Utensil cleaning (VIM baar, scratch pad)
-- కుంకుడు కాయలు
-
-
+* OTHER
+- Baking paper
+- Baking Powder
+- Baking Soda
+- 
