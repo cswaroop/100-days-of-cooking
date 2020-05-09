@@ -48,3 +48,4 @@ Lemon Rice
    Entered on [2020-04-26 Sun 18:42]
   
      [[file:~/.spacemacs::("c" "Job" entry (file+datetree "d:/MyProjects/100-days-of-cooking/log.org")]]
+** 
